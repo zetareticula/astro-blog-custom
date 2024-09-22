@@ -1,6 +1,6 @@
 ---
-title: Blogpost 6
-description: Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, vox nocte sedesque, decimo. Omnia esse, quam sive; conplevit illis indestrictus admovit dedit sub quod protectus, impedit non.
+title: The Power of KleverAI
+description: Klever is fundamentally designed to work for all people, whatever their hardware, software, language, location, or ability. When the AI meets this goal, it is accessible to people with a diverse range of hearing, movement, sight, and cognitive ability.
 pubDate: 2023-02-21 00:13
 author: Elian Van Cutsem
 tags:
@@ -11,17 +11,13 @@ imgUrl: '../../assets/astro.jpeg'
 layout: ../../layouts/BlogPost.astro
 ---
 
-## Deorum petiit ignis
+## Assistive Technology 
 
-Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, *vox
-nocte sedesque*, decimo. Omnia esse, quam sive; conplevit illis indestrictus
-admovit dedit sub quod protectus, impedit non.
+KleverAI enables users to adapt (or ‘personalize’) how content is presented to meet their needs and preferences as they interact with AI. Content authors can use Klever to convey user interface behaviors and structural information.
 
 ## Iovis late orbem Perseus sunt
 
-Aras reperire, sui motis correpti coniunx Onetor amore ferire lacertis, petiit.
-Bis pallor et mecum me, igne patruelibus *tendebam*, vultu sterilique terruerat
-*tempore* medium aera **eadem Mittor**.
+Klever encourages the development of tools that support production of accessible Web content. Likewise, Klever is pivotal in the adoption of a consistent standard for web and AI, improving access to and reinforce the accessibility of Web content. Klever helps ensure that accessible content will be more available through assistive technologies used by some people with disabilities.
 
 - Non turba loca dederunt primordia ineamus Dictys
 - Tanti amat mundus sedula
