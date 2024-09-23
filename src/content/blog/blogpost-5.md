@@ -1,47 +1,36 @@
 ---
-title: Blogpost 5
+title: Development Guide
 author: Elian Van Cutsem
 pubDate: 2023-02-19 18:37
 tags:
-  - Astro
-  - JavaScript
-  - Theme
-description: Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, vox nocte sedesque, decimo. Omnia esse, quam sive; conplevit illis indestrictus admovit dedit sub quod protectus, impedit non.
+  - KleverAI
+  - W3C
+  - Vercel
+description: 
 imgUrl: '../../assets/astro.jpeg'
 layout: "../../layouts/BlogPost.astro"
 ---
 
-## Deorum petiit ignis
+## KleverAI's fewer speech command process renders unique navigational tables
 
-Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, *vox
-nocte sedesque*, decimo. Omnia esse, quam sive; conplevit illis indestrictus
-admovit dedit sub quod protectus, impedit non.
+ The work of the current task forces at KleverAI are tailored for Mobile Accessibility needs implementing a Low Vision Accessibility dialog prompt show.
+ 
+the importance of combined consideration of content, user interface, extensions, applications and user agents.
 
-## Iovis late orbem Perseus sunt
 
-Aras reperire, sui motis correpti coniunx Onetor amore ferire lacertis, petiit.
-Bis pallor et mecum me, igne patruelibus *tendebam*, vultu sterilique terruerat
-*tempore* medium aera **eadem Mittor**.
 
-- Non turba loca dederunt primordia ineamus Dictys
-- Tanti amat mundus sedula
-- Potuissent aetas parili coniuge se lumina breve
-- Tamen ille crepitantibus ulla coeperunt quibus iugulo
-- Pindusque solacia luctataque felix
+## Consideration of content
+- Accessibility guidelines should be followed to ensure that content is perceivable, operable, understandable, and robust.
+- Semantic HTML should be used to provide meaningful structure and information to assistive technologies.
+- Alternative text should be provided for images to describe their content to visually impaired users.
+- Proper heading structure should be used to create a logical outline of the content.
+- Keyboard accessibility should be implemented to allow users to navigate and interact with the content using only the keyboard.
 
-## Longum minus sic saepe
+-   The user can choose to reposition individual controls within containers (e.g. toolbars or tool palettes)
 
-Genu cupiens quoque: cum dolor: sollicitive cantu, et piae Leuconoe, huius non
-nil tuli Peleusque rauca. Et alvum cuncti Hippodamas meritis nec coniunx ausa,
-pete. Congestaque nisi nullus poena. Tanto cum, curvis vulnera quod optatis,
-trahens conplexa saepe.
 
-Hominum quo. Signa germanaeque iuvat at feruntur precantibus corpus praebuerat
-excipit mixtaeque inferior, haec percepit regum: nec nec sit ferenti.
 
-## Geminas namque quod referitur argenteus aderat superstes
+## For those who can customize ther LLM to Simplicity.
 
-Insistere pugno. Cum morae vigilantibus dulces Cycnus: neque cum sororis.
 
-Hac Aestas solet docebo tandem tamquam omnis vitiantur mitte, vatis in animique
-infelix passimque. Superasset onus.
+The user can choose to display any controls available within the user agent user interface, including user-installed add-ons.
