@@ -11,7 +11,7 @@ imgUrl: '../../assets/astro.jpeg'
 layout: "../../layouts/BlogPost.astro"
 ---
 
-## KleverAI's fewer speech command process renders unique navigational tables
+## KleverAI's fewer speech command process, as it renders a  unique navigational prompt 
 
  The work of the current task forces at KleverAI are tailored for Mobile Accessibility needs implementing a Low Vision Accessibility dialog prompt show.
  
@@ -20,6 +20,7 @@ the importance of combined consideration of content, user interface, extensions,
 
 
 ## Consideration of content
+
 - Accessibility guidelines should be followed to ensure that content is perceivable, operable, understandable, and robust.
 - Semantic HTML should be used to provide meaningful structure and information to assistive technologies.
 - Alternative text should be provided for images to describe their content to visually impaired users.

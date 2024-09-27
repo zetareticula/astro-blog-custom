@@ -28,4 +28,14 @@ To work with DOM ancestry in KleverAI, you can use the built-in DOM traversal me
 
 By leveraging the DOM ancestry in KleverAI, you can enhance the functionality and interactivity of your web applications, making them more intelligent and context-aware.
 
-## 
+## Example Usage of DOM Ancestry in KleverAI
+
+Let's say we have the following HTML structure:
+
+<div id="parent">
+  <div class="child">Child 1</div>
+  <div class="child">Child 2</div>
+  <div class="child">Child 3</div>
+</div>
+
+

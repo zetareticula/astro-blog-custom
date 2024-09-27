@@ -1,13 +1,13 @@
 ---
-title: Blogpost 1
+title: Klever Alternatives.
 pubDate: 11/09/2022 14:25
 author: "Elian Van Cutsem"
 tags:
-  - JavaScript
-  - Astro
-  - UnoCSS
+  - W3C
+  - WCAG
+  - 
 imgUrl: '../../assets/astro.jpeg'
-description: Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, vox nocte sedesque, decimo. Omnia esse, quam sive; conplevit illis indestrictus admovit dedit sub quod protectus, impedit non.
+description:Klever is a resource For users of assistive technology in AI such as screen readers Using semantic structures which allow for a custom work space, with simplicity in mind, to be used to change the presentation of how the AI affect human emotion; intent, of links, while preserving The relationship between domains on the Klever platform.
 layout: '../../layouts/BlogPost.astro'
 ---
 
