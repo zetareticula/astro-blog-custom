@@ -25,19 +25,4 @@ Klever encourages the development of tools that support production of accessible
 - Klever promotes Increased availability of supporting tools and resources, including authoring tools, evaluation tools, browsers, media players, and training and technical resources.
 - Implementation of accessibility standards in browsers and authoring tools is mutually reinforcing with Klever.
 
-## Longum minus sic saepe
-
-Genu cupiens quoque: cum dolor: sollicitive cantu, et piae Leuconoe, huius non
-nil tuli Peleusque rauca. Et alvum cuncti Hippodamas meritis nec coniunx ausa,
-pete. Congestaque nisi nullus poena. Tanto cum, curvis vulnera quod optatis,
-trahens conplexa saepe.
-
-Hominum quo. Signa germanaeque iuvat at feruntur precantibus corpus praebuerat
-excipit mixtaeque inferior, haec percepit regum: nec nec sit ferenti.
-
-## Geminas namque quod referitur argenteus aderat superstes
-
-Insistere pugno. Cum morae vigilantibus dulces Cycnus: neque cum sororis.
-
-Hac Aestas solet docebo tandem tamquam omnis vitiantur mitte, vatis in animique
-infelix passimque. Superasset onus.
+##

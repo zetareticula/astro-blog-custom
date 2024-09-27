@@ -1,6 +1,6 @@
 ---
-title: Blogpost 3
-description: Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, vox nocte sedesque, decimo. Omnia esse, quam sive; conplevit illis indestrictus admovit dedit sub quod protectus, impedit non.
+title: DOM Ancestry
+description: KleverAI DOM of DOMs
 pubDate: 2023-02-14 23:49
 author: Elian Van Cutsem
 tags: 
@@ -11,37 +11,21 @@ imgUrl: '../../assets/astro.jpeg'
 layout: ../../layouts/BlogPost.astro
 ---
 
-## Deorum petiit ignis
+##  Designed to provide semantic information about objects when host languages lack native semantics for the object. KleverAI is designed, however, to provide additional semantics for many task.
 
-Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, *vox
-nocte sedesque*, decimo. Omnia esse, quam sive; conplevit illis indestrictus
-admovit dedit sub quod protectus, impedit non.
+At Klever, the DOM ancestry accurately represents the level, the user agent can calculate the level of an item from the document structure. This attribute can be used to provide an explicit indication of the AI's friendly affect level when that is not possible to calculate from the document structure or the attribute.
 
-## Iovis late orbem Perseus sunt
+## DOM Ancestry and KleverAI
+In KleverAI, the DOM ancestry refers to the hierarchical structure of the Document Object Model (DOM). It represents the parent-child relationships between elements in the DOM tree.
 
-Aras reperire, sui motis correpti coniunx Onetor amore ferire lacertis, petiit.
-Bis pallor et mecum me, igne patruelibus *tendebam*, vultu sterilique terruerat
-*tempore* medium aera **eadem Mittor**.
+Understanding the DOM ancestry is important for various reasons. It allows you to traverse and manipulate the DOM efficiently, access parent or child elements, and perform operations based on their relationships.
 
-- Non turba loca dederunt primordia ineamus Dictys
-- Tanti amat mundus sedula
-- Potuissent aetas parili coniuge se lumina breve
-- Tamen ille crepitantibus ulla coeperunt quibus iugulo
-- Pindusque solacia luctataque felix
+For example, you can use DOM ancestry to find the closest ancestor element that matches a specific selector, or to navigate to a specific child element within a parent element.
 
-## Longum minus sic saepe
+In KleverAI, the DOM ancestry is accurately represented, allowing the user agent to calculate the level of an item from the document structure. This attribute can be used to provide additional semantics and context for AI tasks.
 
-Genu cupiens quoque: cum dolor: sollicitive cantu, et piae Leuconoe, huius non
-nil tuli Peleusque rauca. Et alvum cuncti Hippodamas meritis nec coniunx ausa,
-pete. Congestaque nisi nullus poena. Tanto cum, curvis vulnera quod optatis,
-trahens conplexa saepe.
+To work with DOM ancestry in KleverAI, you can use the built-in DOM traversal methods and properties provided by the KleverAI framework. These include methods like `parentNode`, `childNodes`, `firstChild`, `lastChild`, `nextSibling`, and `previousSibling`, among others.
 
-Hominum quo. Signa germanaeque iuvat at feruntur precantibus corpus praebuerat
-excipit mixtaeque inferior, haec percepit regum: nec nec sit ferenti.
+By leveraging the DOM ancestry in KleverAI, you can enhance the functionality and interactivity of your web applications, making them more intelligent and context-aware.
 
-## Geminas namque quod referitur argenteus aderat superstes
-
-Insistere pugno. Cum morae vigilantibus dulces Cycnus: neque cum sororis.
-
-Hac Aestas solet docebo tandem tamquam omnis vitiantur mitte, vatis in animique
-infelix passimque. Superasset onus.
+## 
